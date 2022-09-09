@@ -11,6 +11,6 @@ body{background-color: lightblue;}
 p{
 	max-width: 1000px;
 }
-.pages{
-	background-color: yellow;
+.header{
+	background-color: MediumSpringGreen;
 }
