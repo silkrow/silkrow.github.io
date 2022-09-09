@@ -7,10 +7,14 @@ h2{
 h3{
 	color: grey;
 }
-body{background-color: lightblue;}
+body{
+	background-color: lightblue;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+}
 p{
 	max-width: 1000px;
 }
 .header{
-	background-color: springgreen;
+	background-color: mediumspringgreen;
 }
