@@ -1,10 +1,12 @@
 # 188. Best Time to Buy and Sell Stock IV
 ## Level
 Hard
+
 ## Link
 [Best Time to But and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+
 ## Description
-You are given an integer array prices where prices[i] is the price of a given stock on the ith day, and an integer k.
+You are given an integer array prices where prices[i] is the price of a given stock on the *i*th day, and an integer *k*.
 
 Find the maximum profit you can achieve. You may complete at most k transactions.
 
